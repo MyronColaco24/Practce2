@@ -6,6 +6,8 @@ public class Rose {
 		
 		System.out.println("Edu");
 		System.out.println("Ahmed");
+		System.out.println("Carlos");
+		System.out.println("Sega");
 
 	}
 
